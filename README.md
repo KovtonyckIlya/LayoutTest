@@ -1,1 +1,1 @@
-![](https://github.com/KovtonyckIlya/LayoutTest/blob/master/untitled.gif)
+![](https://github.com/KovtonyckIlya/LayoutTest/blob/master/untitled.gif =250x250) 
